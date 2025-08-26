@@ -25,7 +25,9 @@ The app helps researchers explore a topic by automatically finding and summarizi
 ## 📂 Project Structure  
 
 ├── agents_with_logic.py # Defines AutoGen-based multi-agent survey logic
+
 ├── streamlit_app.py # Streamlit frontend with watermark UI
+
 ├── requirements.txt # Dependencies
 
 
